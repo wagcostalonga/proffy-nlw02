@@ -1,6 +1,6 @@
-<h1 align="center">Proffy - Next Level Week - Rocketseat :rocket: </h1>
+<h1 align="center">Proffy </h1>
 
-<h3 align="center"> </h3>
+<h3 align="center">Next Level Week - Rocketseat :rocket:</h3>
 
 <br />
 <p>Aplicação voltada a cadastro, busca e agendamento de professores particulares filtrados por matérias, dia da semana e horário. <br />
